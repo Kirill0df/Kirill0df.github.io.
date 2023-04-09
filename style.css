@@ -1,0 +1,142 @@
+body{
+ background-image: url();
+}
+.zogolovok{
+
+    color: white ;
+    
+    
+    width: 595px;
+    left: 80px;
+    top: 262px;
+
+    font-family: Montserrat;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 89px;
+    /* or 88px */
+
+   
+}
+.nav{
+    position: absolute;
+width: 702px;
+height: 15px;
+left: 402px;
+top: 39px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 12px;
+font-size: 14px;
+
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+.telefon{
+    position: absolute;
+left: 2.96%;
+right: 2.45%;
+top: 3.24%;
+bottom: 4.13%;
+
+background: #FFFFFF;
+}
+.number{
+    position: absolute;
+width: 174px;
+height: 21px;
+left: 1192px;
+top: 36px;
+
+
+
+color: #FFFFFF;
+
+}
+.podzagalovok{
+   
+width: 644px;
+height: 26px;
+
+
+font-family: Montserrat ;
+font-weight: 50px;
+font-size: 25px;
+
+
+color: #FFFFFF;
+}
+.body{
+    background-image: url(фото\ 5.png);
+   background-size: 100% 100%;
+   margin: 0;
+   top: 100%;
+   
+}
+.tabletext{
+    position: absolute;
+width: 176px;
+height: 17px;
+left: 93px;
+top: 690px;
+
+font-family: Montserrat;
+font-weight: 25px;
+font-size: 20px;
+}
+.ssilka10{
+display: inline-block;
+color: #FFFFFF;
+background-color: #037E8C;
+text-decoration: none;
+padding: 12px 32px;
+border-radius:7px ;
+top: 60px;
+}
+.kruzok{
+    position: absolute;
+left: 5.9%;
+right: 90.97%;
+top: 10.64%;
+bottom: 88.86%;
+
+background: #037E8C;
+}
+.podzagalovok1{
+    position: static;
+    width: 4px;
+     font-family: Montserrat;
+    font-weight: 600;
+font-size: 18px;
+color: black;
+left: 72px;
+top: 1031px;
+    
+   
+}
+.poddekst{
+    color: #FFFFFF;
+    
+    font-family: Montserrat;
+    font-weight: 600;
+font-size: 18px;
+}
+.ikonka1{
+    position: absolute;
+    left: 5.9%;
+    right: 90.97%;
+    
+    
+}
+.ikonka2{
+    position: absolute;
+    left: 5%;
+    right: 92.5%;
+    
+    
+    
+}
